@@ -5,3 +5,4 @@ We're practicing git and github on 2/21
 --Created some folders
 --wrote program
 --solved a problem
+:)
